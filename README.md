@@ -21,6 +21,3 @@
   <a href="mailto:rks85227@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div><br>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuiseo&layout=compact">
-</div>
